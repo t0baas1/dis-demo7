@@ -1,0 +1,89 @@
+Dropping existing tables...
+Tables dropped
+Creating tables
+Tables created
+Loading data...
+Loading shops...
+Loading articles...
+Writing data into DB
+Start writing dates...
+Start writing data...
+Writed rows: 0
+Writed rows: 1000
+Writed rows: 2000
+Writed rows: 3000
+Writed rows: 4000
+Writed rows: 5000
+Writed rows: 6000
+Writed rows: 7000
+Writed rows: 8000
+Writed rows: 9000
+Writed rows: 10000
+Writed rows: 11000
+Writed rows: 12000
+Writed rows: 13000
+Writed rows: 14000
+Writed rows: 15000
+Writed rows: 16000
+Writed rows: 17000
+Writed rows: 18000
+Writed rows: 19000
+Writed rows: 20000
+Writed rows: 21000
+Writed rows: 22000
+Writed rows: 23000
+Writed rows: 24000
+Writed rows: 25000
+Writed rows: 26000
+Writed rows: 27000
+Writed rows: 28000
+Writed rows: 29000
+Writed rows: 30000
+Writed rows: 31000
+Writed rows: 32000
+Writed rows: 33000
+Writed rows: 34000
+Writed rows: 35000
+Writed rows: 36000
+Writed rows: 37000
+Writed rows: 38000
+Writed rows: 39000
+Writed rows: 40000
+Writed rows: 41000
+Writed rows: 42000
+Writed rows: 43000
+Writed rows: 44000
+Writed rows: 45000
+Writed rows: 46000
+Writed rows: 47000
+Writed rows: 48000
+Writed rows: 49000
+Writed rows: 50000
+Writed rows: 51000
+Writed rows: 52000
+Writed rows: 53000
+Writed rows: 54000
+Writed rows: 55000
+Writed rows: 56000
+Writed rows: 57000
+Writed rows: 58000
+Writed rows: 59000
+Writed rows: 60000
+Writed rows: 61000
+Writed rows: 62000
+Writed rows: 63000
+Writed rows: 64000
+Writed rows: 65000
+Writed rows: 66000
+Writed rows: 67000
+Writed rows: 68000
+Writed rows: 69000
+Writed rows: 70000
+Writed rows: 71000
+Writed rows: 72000
+Writed rows: 73000
+Writed rows: 74000
+Writed rows: 75000
+Writed rows: 76000
+Writed rows: 77000
+Connection closed
